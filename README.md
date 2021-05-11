@@ -1,7 +1,7 @@
 ## 欢迎来到我的主页
 
 这是在调试图片  
-![alt](https://github.com/wangzhijie86/wangzhijie86.github.io/commit/2f5d06b4e6f2dbfa45303f3ee354b16a349913ae#diff-f00509d0da70082be4989fac0eca342942c452cea54b3beb9ae9115b8579e8d5)  
+![alt](https://github.com/wangzhijie86/wangzhijie86.github.io/blob/master/%E7%85%A4%E6%88%BF%E5%BD%A9%E9%92%A2%E7%BB%93%E6%9E%84%202020-07-25%20145001.jpg)  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

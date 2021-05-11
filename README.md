@@ -1,6 +1,7 @@
 ## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/wangzhijie86/wangzhijie86.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是在调试图片
+![alt]
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

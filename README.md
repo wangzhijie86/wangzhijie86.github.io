@@ -1,12 +1,12 @@
 ## 欢迎来到我的主页
 
 这是在调试图片  
-![alt](https://github.com/wangzhijie86/wangzhijie86.github.io/blob/master/%E7%85%A4%E6%88%BF%E5%BD%A9%E9%92%A2%E7%BB%93%E6%9E%84%202020-07-25%20145001.jpg)  
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![abcd](https://github.com/wangzhijie86/wangzhijie86.github.io/blob/master/%E7%85%A4%E6%88%BF%E5%BD%A9%E9%92%A2%E7%BB%93%E6%9E%84%202020-07-25%20145001.jpg)  
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/)
 
-### Markdown
+### 第一次做技术博客
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+只能写一些文字的东西，网站图片还没有调试出来。
 
 ```markdown
 Syntax highlighted code block

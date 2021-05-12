@@ -4,9 +4,9 @@
 ![abcd](https://github.com/wangzhijie86/wangzhijie86.github.io/blob/master/%E7%85%A4%E6%88%BF%E5%BD%A9%E9%92%A2%E7%BB%93%E6%9E%84%202020-07-25%20145001.jpg)  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/)
 
-### 第一次做技术博客
+### 第一次做技术博客-本来2019年就建好了-一直没有打理-因为是国外服务器可能移动访问效果不佳-电信要好很多
 
-只能写一些文字的东西，网站图片还没有调试出来。
+只能写一些文字的东西，网站图片还没有调试出来。顶上就有一个图片但是没有显示，还在找什么原因
 
 ```markdown
 贴一段我的词吧，2021年5月12日。
@@ -42,5 +42,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.  
-版权所有 © 王志杰 2021 保留一切权利
+ 
+         版权所有 © 王志杰 2021 保留一切权利

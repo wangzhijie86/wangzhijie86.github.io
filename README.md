@@ -10,10 +10,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 贴一段我的词吧，2021年5月12日。
-                
+
+
 # 厦蓉莎 1
 ## 2008年地震 2
 ### Header 3
+
+
                    厦蓉莎  
                    
   腊雨呢喃，薄雾愁云，树梢橘灯映山红。天府之国。蓉城静。  
@@ -21,7 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   东风一阵破狂澜，淼淼炊烟晨海西。
   佳能长焦永定门，居此恋。爱丽丝，梦幻仙境。  
    
-   
+     
  
   2008年的今天，家里办丧事，外公去世了。中午酒席间，有两只狗枪骨头吃，打架。
   整个大棚里大家都没办法吃饭。我上去制止这两只狗，被狗咬一口。两个犬齿印记
@@ -35,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
  
-                            版权所有 © 王志杰 2021 保留一切权利
+                      版权所有 © 王志杰 2021 保留一切权利
